@@ -43,28 +43,22 @@ async function getSongs(folder) {
             "Bulleya.mp3",
             "Aashiq Tera.mp3",
             "Agar Tum Saath Ho.mp3",
-            "Ud-Daa Punjab - Remix by DJ Notorious.mp3",
-            "Chaleya.mp3",
+        
             "Kabira.mp3",
-            "Kesariya.mp3",
+    
             "Mera Yaar.mp3",
-            "Qaafirana.mp3",
-            "Raabta Kehte Hain Khuda Ne.mp3",
-            "Apna Bana Le.mp3",
+        
             "Rang Jo Lagyo.mp3",
             "Soch Na Sake.mp3",
             "Tujhe Kitna Chahne Lage.mp3",
             "Tum Se Hi.mp3",
             "Ve Kamleya.mp3",
             "Charka.mp3",
-            "Mash-up.mp3",
         ],
         ncs: [
             "Royalty.mp3",
             "NEFFEX - Cold.mp3",
-            "Lost Sky.mp3",
-            "Warriyo-Mortals.mp3",
-            "Cartoon.mp3",
+        
         ],
         party: [
             "Dance Ka Bhoot.mp3",
@@ -81,7 +75,6 @@ async function getSongs(folder) {
         Alanwalker: [
             "Alone pt-II.mp3",
             "On My Way.mp3",
-            "Faded.mp3",
         ],
         english: [
             "Unstoppable.mp3",
