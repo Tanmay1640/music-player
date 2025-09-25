@@ -35,19 +35,16 @@ async function getSongs(folder) {
     let playlists = {
         bollywood: [
 
-            "Kun_Faaya_Kun.mp3",
+            "Kun Faaya Kun.mp3",
             "Raanjhanaa.mp3",
-            "Main_Rang_Sharbaton Ka.mp3",
+            "Main Rang Sharbaton Ka.mp3",
             "Mitwa.mp3",
-            "O_Rangrez.mp3",
+            "O Rangrez.mp3",
             "Bulleya.mp3",
             "Aashiq Tera.mp3",
             "Agar Tum Saath Ho.mp3",
-        
             "Kabira.mp3",
-    
             "Mera Yaar.mp3",
-        
             "Rang Jo Lagyo.mp3",
             "Soch Na Sake.mp3",
             "Tujhe Kitna Chahne Lage.mp3",
@@ -233,6 +230,7 @@ async function main() {
 
 }
 main()
+
 
 
 
