@@ -34,7 +34,6 @@ async function getSongs(folder) {
     currFolder = folder;
     let playlists = {
         bollywood: [
-
             "Kun Faaya Kun.mp3",
             "Raanjhanaa.mp3",
             "Main Rang Sharbaton Ka.mp3",
@@ -75,11 +74,11 @@ async function getSongs(folder) {
         ],
         english: [
             "Unstoppable.mp3",
-            "Hall of fame.mp3",
+            "Hall Of Fame.mp3",
         ],
          divine: [
             "Namo Namo.mp3",
-            "Ghalin Lotangan Vandin Charan.mp3",
+            "Ghalin lotangan vandin charan.mp3",
         ]
     };
     songs = playlists[folder] || [];
@@ -230,6 +229,7 @@ async function main() {
 
 }
 main()
+
 
 
 
