@@ -56,7 +56,7 @@ async function getSongs(folder) {
             "Charka.mp3",
         ],
         ncs: [
-            "songs/ncs/Royalty.mp3",
+            "Royalty.mp3",
             "NEFFEX - Cold.mp3",
         
         ],
@@ -73,7 +73,7 @@ async function getSongs(folder) {
             "Matushka.mp3",
         ],
         Alanwalker: [
-            "songs\Alanwalker\Alone pt-II.mp3",
+            "Alone pt-II.mp3",
             "On My Way.mp3",
         ],
         english: [
@@ -233,6 +233,7 @@ async function main() {
 
 }
 main()
+
 
 
 
