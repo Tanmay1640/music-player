@@ -56,7 +56,7 @@ async function getSongs(folder) {
             "Charka.mp3",
         ],
         ncs: [
-            "Royalty.mp3",
+            "songs\ncs\Royalty.mp3",
             "NEFFEX - Cold.mp3",
         
         ],
@@ -233,4 +233,5 @@ async function main() {
 
 }
 main()
+
 
