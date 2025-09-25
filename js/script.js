@@ -73,7 +73,7 @@ async function getSongs(folder) {
             "Matushka.mp3",
         ],
         Alanwalker: [
-            "Alone pt-II.mp3",
+            "songs\Alanwalker\Alone pt-II.mp3",
             "On My Way.mp3",
         ],
         english: [
@@ -233,3 +233,4 @@ async function main() {
 
 }
 main()
+
