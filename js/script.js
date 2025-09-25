@@ -117,7 +117,7 @@ async function getSongs(folder) {
 
 }
 const playMusic = (track, pause = false) => {
-    currentSong.src = "songs/" + track;
+    currentSong.src = "/songs/" + track;
     if (!pause) {
         console.log("Playing:", track);
         currentSong.play()
@@ -233,6 +233,7 @@ async function main() {
 
 }
 main()
+
 
 
 
