@@ -34,21 +34,22 @@ async function getSongs(folder) {
     currFolder = folder;
     let playlists = {
         bollywood: [
-            "Raanjhanaa.mp3",
-            "Main Rang Sharbaton Ka.mp3",
-            "Mitwa.mp3",
-            "O Rangrez.mp3",
-            "Bulleya.mp3",
-            "Aashiq Tera.mp3",
-            "Agar Tum Saath Ho.mp3",
-            "Kabira.mp3",
+            "Charka.mp3",
             "Mera Yaar.mp3",
+            "O Rangrez.mp3",
+            "Aashiq Tera.mp3",
+            "Tum Se Hi.mp3",
+            "Agar Tum Saath Ho.mp3",
+            "Mitwa.mp3",
+            "Bulleya.mp3",
+            "Main Rang Sharbaton Ka.mp3",
+            "Raanjhanaa.mp3",
+            "Kabira.mp3",
             "Rang Jo Lagyo.mp3",
             "Soch Na Sake.mp3",
             "Tujhe Kitna Chahne Lage.mp3",
-            "Tum Se Hi.mp3",
             "Ve Kamleya.mp3",
-            "Charka.mp3",
+           
         ],
         ncs: [
             "Royalty.mp3",
@@ -228,6 +229,7 @@ async function main() {
 
 }
 main()
+
 
 
 
