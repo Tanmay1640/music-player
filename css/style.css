@@ -414,6 +414,10 @@ body {
         bottom: 10px;
     }
 
+    .spotifyPlaylists h1 {
+        display:none;
+    }
+
 
 
 }
@@ -452,5 +456,6 @@ body {
 
 
 }
+
 
 
